@@ -1,0 +1,22 @@
+{
+    "name": "Society light theme",
+    "is_dark": false,
+    "colors": {
+        "accent-color": "#008FA6",
+        "primary-color": "#008A3B",
+        "warning-color": "#F77E0B",
+
+        "sidebar-color": "#002143",
+        "roomlist-background-color": "#FBFBFB",
+        "roomlist-text-color": "#224161",
+        "roomlist-text-secondary-color": "#5C7893",
+        "roomlist-highlights-color": "#FFFFFF",
+        "roomlist-separator-color": "#FFFFFF",
+
+        "timeline-background-color": "#FFFFFF",
+        "timeline-text-color": "#F0F2F5",
+        "timeline-text-secondary-color": "#008FA6",
+        "timeline-highlights-color": "#AE0721",
+        "reaction-row-button-selected-bg-color": "#008A3B"
+    }
+}
