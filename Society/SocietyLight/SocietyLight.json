@@ -1,22 +1,20 @@
 {
-    "name": "Society light theme",
-    "is_dark": false,
-    "colors": {
-        "accent-color": "#008FA6",
-        "primary-color": "#008A3B",
-        "warning-color": "#F77E0B",
-
-        "sidebar-color": "#002143",
-        "roomlist-background-color": "#FBFBFB",
-        "roomlist-text-color": "#224161",
-        "roomlist-text-secondary-color": "#5C7893",
-        "roomlist-highlights-color": "#FFFFFF",
-        "roomlist-separator-color": "#FFFFFF",
-
-        "timeline-background-color": "#FFFFFF",
-        "timeline-text-color": "#F0F2F5",
-        "timeline-text-secondary-color": "#008FA6",
-        "timeline-highlights-color": "#AE0721",
-        "reaction-row-button-selected-bg-color": "#008A3B"
-    }
+  "name": "Society light theme",
+  "is_dark": false,
+  "colors": {
+    "accent-color": "#002143",
+    "primary-color": "#2CD172",
+    "warning-color": "#F77E0B",
+    "sidebar-color": "#002143",
+    "roomlist-background-color": "#FBFBFB",
+    "roomlist-text-color": "#002143",
+    "roomlist-text-secondary-color": "#56738F",
+    "roomlist-highlights-color": "#eceff4",
+    "roomlist-separator-color": "#eceff4",
+    "timeline-background-color": "#FFFFFF",
+    "timeline-text-color": "#002143",
+    "timeline-text-secondary-color": "#1D3352",
+    "timeline-highlights-color": "#E6E8EE",
+    "reaction-row-button-selected-bg-color": "#56738F"
+  }
 }
