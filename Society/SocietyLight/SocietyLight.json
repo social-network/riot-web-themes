@@ -15,6 +15,7 @@
     "timeline-text-color": "#002143",
     "timeline-text-secondary-color": "#1D3352",
     "timeline-highlights-color": "#E6E8EE",
-    "reaction-row-button-selected-bg-color": "#56738F"
+    "reaction-row-button-selected-bg-color": "#56738F",
+    "font-family-custom": "Gilroy, Nunito, Twemoji, 'Apple Color Emoji', 'Segoe UI Emoji', Arial, Helvetica, Sans-Serif, 'Noto Color Emoji'"
   }
 }
